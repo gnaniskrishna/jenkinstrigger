@@ -1,6 +1,3 @@
 New changes done by developer
 
-some more changes dondddddddeddd
-dddd
-fsffd
-sss
+some changes happen in project
