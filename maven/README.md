@@ -7,3 +7,4 @@ gnani
 kranthi
 venkat reddy
 devops
+aws
